@@ -1,0 +1,12 @@
+## Files we want to have locally, but do not want to push to remote
+
+## Editor swap files
+*~
+*.swp
+*.orig
+
+## CMake build system
+**/build*/
+
+## mkdocs generated
+/site/
