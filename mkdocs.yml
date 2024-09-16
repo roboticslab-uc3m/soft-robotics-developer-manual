@@ -56,9 +56,9 @@ nav:
 - Home: README.md
 - introduction.md
 #- Cognitive Architecture: architecture.md
-#- Software Repositories:
-  #- overview/README.md
-  #- PC Software: overview/pc.md
+- Soft Neck:
+  - softneck/README.md
+  - Demo: softneck/demo.md
   #- Firmware: overview/firmware.md
   #- Demonstration: overview/demonstration.md
   #- Research: overview/research.md
