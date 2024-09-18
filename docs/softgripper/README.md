@@ -1,0 +1,1 @@
+![gripper](../fig/origami_tower.png)

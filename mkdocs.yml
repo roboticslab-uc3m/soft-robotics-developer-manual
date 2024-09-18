@@ -12,6 +12,7 @@ theme:
   features:
     - content.action.edit
     - content.action.view
+    - content.code.copy
     - navigation.footer
     - navigation.indexes
     - navigation.sections
@@ -54,33 +55,36 @@ exclude_docs: |
 
 nav:
 - Home: README.md
-- introduction.md
 #- Cognitive Architecture: architecture.md
 - Soft Neck:
   - softneck/README.md
-  - Demo: softneck/demo.md
-  #- Firmware: overview/firmware.md
-  #- Demonstration: overview/demonstration.md
-  #- Research: overview/research.md
-  #- Development: overview/development.md
-- Tutorial:
-  - tutorial/README.md
-  - Motor Control: tutorial/motor.md
-  - Trajectory Execution: tutorial/trajectories.md
-  - RGB-D Sensor: tutorial/rgbd.md
-  - Mesh From Real Depth: tutorial/mesh.md
-  - Scene Reconstruction: tutorial/kinfu.md
-  - Force/Torque Sensors: tutorial/ft.md
-- diagrams.md
-- tables.md
-- dynamic-information.md
-- switches-and-power.md
-- connectors.md
-- network-information.md
-- driver-check-procedure.md
-- demo-procedure.md
-- additional-resources.md
-- contributors.md
+  - Demo-Space Navigator: softneck/demo.md
+- Soft Gripper:
+  - softgripper/README.md
+  - Demo: softgripper/demo.md
+  - ElectroMechanical Data: softgripper/motors.md
+- Origami:
+  - origami/README.md
+  - Demo: origami/demo.md
+- Roberto:
+  - roberto/README.md
+  - Demo: roberto/demo.md
+- Instron:
+  - instron/README.md
+  - Demo: instron/demo.md
+- MOCAP:
+  - mocap/README.md
+  - Demo: mocap/demo.md
+# - diagrams.md
+# - tables.md
+# - dynamic-information.md
+# - switches-and-power.md
+# - connectors.md
+# - network-information.md
+# - driver-check-procedure.md
+# - demo-procedure.md
+# - additional-resources.md
+# - contributors.md
 
 use_directory_urls: false
 
