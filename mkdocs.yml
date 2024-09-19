@@ -106,3 +106,4 @@ plugins:
   - include-markdown
   - mermaid2
   - mkdocs-pdf
+  - autorefs
