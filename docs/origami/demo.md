@@ -1,5 +1,5 @@
-# Demo: Space Navigator (Inverse Kinematcs)
-### The following steps are meant to be launched on the Soft Robotics PC, next to Lisbeth :)
+# Demo: Origami modular robot
+### The following steps are meant to be launched on the RPI
 
 
 Throughout this section, the required steps to run the Space Navigator demo of the soft neck are described. 
