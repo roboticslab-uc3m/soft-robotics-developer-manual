@@ -8,12 +8,12 @@ Currently hosted at <https://robots.uc3m.es/soft-robotics-developer-manual/>
 
 ## If you have any doubts or comments
 
-In case of doubts please feel free to create an issue [HERE](https://github.com/roboticslab-uc3m/soft-robotics-developer-manual/issues/new).
+In case of doubts please feel free to create an issue [here](https://github.com/roboticslab-uc3m/soft-robotics-developer-manual/issues/new).
 
 
 ### How to serve on localhost
 
-When modifying the website it is useful to first test the changes locally. This can be done by opening and refreshing the website **index.html** generated inside the file folder [RECOMMENDED]or by serving on `localhost`. The latter can be done by following these steps:
+When modifying the website it is useful to first test the changes locally. This can be done by opening and refreshing the website **index.html** generated inside the file folder [RECOMMENDED] or by serving on `localhost`. The latter can be done by following these steps:
 
 1. From the root of the project, run the following command:
 
