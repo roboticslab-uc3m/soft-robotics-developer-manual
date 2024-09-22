@@ -2,25 +2,18 @@
 
 # Soft-Robotics Developer Manual
 
-[Soft Robotics](http://roboticslab.uc3m.es/roboticslab/researchtopic/soft-robotics) Developer Manual @ [roboticslab-uc3m](https://github.com/roboticslab-uc3m)
+Developer manual for the [Soft Robotics](http://roboticslab.uc3m.es/roboticslab/researchtopic/soft-robotics) research group at [roboticslab-uc3m](https://github.com/roboticslab-uc3m).
 
-Currently hosted at <https://robots.uc3m.es/teo-developer-manual/>
+Currently hosted at <https://robots.uc3m.es/soft-robotics-developer-manual/>
 
 ## If you have any doubts or comments
 
-Please read the Developer Manual's [Asking Questions](https://robots.uc3m.es/developer-manual/asking-questions.html) section, and once you've succeded with its [self-evaluation](https://robots.uc3m.es/developer-manual/asking-questions.html#self-evaluation-time) follow the recommendations by commenting publicly [HERE](https://github.com/roboticslab-uc3m/teo-developer-manual/issues/new) if required
+In case of doubts please feel free to create an issue [HERE](https://github.com/roboticslab-uc3m/soft-robotics-developer-manual/issues/new).
 
-## How-To's
-
-- [TEO Developer Manual](#teo-developer-manual)
-  - [If you have any doubts or comments](#if-you-have-any-doubts-or-comments)
-  - [How-To's](#how-tos)
-    - [How to serve on localhost](#how-to-serve-on-localhost)
-    - [How to upload changes to GitHub](#how-to-upload-changes-to-github)
 
 ### How to serve on localhost
 
-It is useful to serve on `localhost` to modify the website and see changes locally.
+When modifying the website it is useful to first test the changes locally. This can be done by opening and refreshing the website **index.html** generated inside the file folder [RECOMMENDED]or by serving on `localhost`. The latter can be done by following these steps:
 
 1. From the root of the project, run the following command:
 
@@ -29,7 +22,7 @@ It is useful to serve on `localhost` to modify the website and see changes local
    mkdocs serve
    ```
 
-1. You can now browse the site at the default location: <http://127.0.0.1:8000>
+2. You can now browse the site at the default location: <http://127.0.0.1:8000>
 
 ### How to upload changes to GitHub
 
