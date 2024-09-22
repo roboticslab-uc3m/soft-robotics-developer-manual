@@ -4,6 +4,7 @@ mkdocs-open-in-new-tab
 mkdocs-git-revision-date-localized-plugin
 mkdocs-table-reader-plugin
 mkdocs-include-markdown-plugin
+mkdocs-autorefs
 mkdocs-mermaid2-plugin
 mkdocs-pdf
 pymdown-extensions
