@@ -1,0 +1,13 @@
+Terminal resistance phase to phase,0.955 Ω
+Terminal inductance phase to phase,0.0498 mH
+Torque constant,9.1 mNm/A
+Speed constant,1050 rpm/V
+Speed / torque gradient,110 rpm/mNm
+Mechanical time constant,5.14 ms
+Rotor inertia,4.45 gcm²
+Thermal resistance housing-ambient,10.2 K/W
+Thermal resistance winding-housing,1.02 K/W
+Thermal time constant winding,1.99 s
+Thermal time constant motor,628 s
+Ambient temperature,-40...+100 °C
+Max. winding temperature,+155 °C
