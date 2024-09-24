@@ -75,6 +75,12 @@ nav:
 - MOCAP:
   - mocap/README.md
   - Demo: mocap/demo.md
+- SoftArm:
+  - softarm/README.md
+  - softarm/motors.md
+  - softarm/demo.md
+- SOFA:
+  - SOFA/README.md
 # - diagrams.md
 # - tables.md
 # - dynamic-information.md
