@@ -7,7 +7,6 @@ Developer manual for the [Soft Robotics](http://roboticslab.uc3m.es/roboticslab/
 Currently hosted at <https://robots.uc3m.es/soft-robotics-developer-manual/>
 
 ### How to install mkdocs and the required plugins
-
 1. Install mkdocs through pip with the following command.
    ```bash
    pip install mkdocs

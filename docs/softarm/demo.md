@@ -37,7 +37,7 @@ For the demos to work the best the finger's tendons need to be tightened first w
     YARP_ROBOT_NAME=teoSoftGripper launchCanBus --from softGripper.ini
     ```
     
-8. At this point you can turn on the Power Supply with a voltage of **24 V** and tense the tendons and align the fingers. This is done by means of the remote procedure calls (RPC). The RPC commands can be accessed through the following command:
+8. At this point you can turn on the Power Supply with a voltage of **36 V** and tense the tendons and align the fingers. This is done by means of the remote procedure calls (RPC). The RPC commands can be accessed through the following command:
 
     ```bash
     yarp rpc /teo/softgripper/rpc:i
