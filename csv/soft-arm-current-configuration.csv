@@ -1,0 +1,10 @@
+Motor,Passband(current controller),Passband(position controller),Intertia(kgm2 E-7)
+ID1,2200,150,100
+ID2,2000,150,100
+ID3,,, 
+ID4,2000,150,100
+ID5,2200,150,100
+ID6,2000,, 
+ID7,2200,120,60
+ID8,2200,150,100
+ID9,,, 
